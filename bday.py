@@ -1,8 +1,9 @@
 import time as q
 import pygame
-
+import os
+os.system('color F4')
 pygame.mixer.init()
-pygame.mixer.music.load("the_way_you_felt.mp3")
+pygame.mixer.music.load("blablabla.mp3")
 pygame.mixer.music.play()
 print('wait 10 seconds')
 y=q.sleep(10)
@@ -76,4 +77,3 @@ q.sleep(1)
 print()
 heart()
 y = q.sleep(260)
-#I love you amal for real n7ebek 

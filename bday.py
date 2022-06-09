@@ -77,3 +77,4 @@ q.sleep(1)
 print()
 heart()
 y = q.sleep(260)
+#I love you amal for real n7ebek
